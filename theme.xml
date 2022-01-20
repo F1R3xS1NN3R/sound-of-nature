@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<theme>
+  <format-version>4.0</format-version>
+  <themecolor>6</themecolor>
+  <fontcolor>#FF059A0C</fontcolor>
+  <fontshadowcolor>#25099222</fontshadowcolor>
+  <focuscolor>#27087D1B</focuscolor>
+  <homescreen-dimmer>#25096418</homescreen-dimmer>
+  <functionscreen-dimmer>#2612620C</functionscreen-dimmer>
+  <titlename-dimmer>#260A670C</titlename-dimmer>
+  <homebgm-enable>True</homebgm-enable>
+  <label>sounds-of-nature</label>
+</theme>
